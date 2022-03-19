@@ -1,6 +1,6 @@
 # Fogo_Cruzado_RJ
 
-O Instituto Fogo Cruzado cataloga ocorrências de tiroteios em algumas cidades brasileiras, fazendo geolocalização,
+O Instituto Fogo Cruzado cataloga ocorrências de tiroteios em algumas cidades brasileiras, fazendo geolocalização destes eventos,
 informando a rua onde o evento ocorreu. Com estas características, fica fácil perceber o quão rico é esta base de dados, e as oportunidades de pesquisa que esses dados permitirão no futuro.
 
 ## Objetivo
